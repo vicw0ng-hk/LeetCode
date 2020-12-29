@@ -69,3 +69,30 @@ class Solution:
         return ans
 ```
 Basic simulation of mathematical plus '+' on two positive integers.
+
+It also works if you convert them into integers first and convert back.
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        num1, num2 = '', ''
+        while l1:
+            num1, l1 = num1 + str(l1.val), l1.next
+        while l2:
+            num2, l2 = num2 + str(l2.val), l2.next
+        num1, num2 = int(str(num1[::-1])), int(str(num2[::-1]))
+        ans_num = num1 + num2
+        ans = ListNode()
+        ptr = ans
+        while ans_num:
+            ptr.val, ans_num = ans_num % 10, ans_num // 10
+            if ans_num: 
+                ptr.next = ListNode()
+                ptr = ptr.next
+        return ans
+```
+But that defeats the purpose of this problem.
