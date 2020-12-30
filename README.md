@@ -13,3 +13,4 @@ I write solutions in Python 3.
 | 6 | ZigZag Conversion | [6-ZigZag-Conversion.md](Solutions/6-ZigZag-Conversion.md) | String |
 | 7 | Reverse Integer | [7-Reverse-Integer.md](Solutions/7-Reverse-Integer.md) | Math |
 | 8 | String to Integer (atoi) | [8-String-to-Integer-(atoi).md](Solutions/8-String-to-Integer-(atoi).md) | Math, String |
+| 9 | Palindrome Number | [9-PalindromeNumber.md](Solutions/9-PalindromeNumber.md) | Math |
