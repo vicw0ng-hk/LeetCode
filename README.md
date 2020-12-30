@@ -11,3 +11,4 @@ I write solutions in Python 3.
 | 4 | Median of Two Sorted Arrays | [4-Median-of-Two-Sorted-Arrays.md](Solutions/4-Median-of-Two-Sorted-Arrays.md) | Array, Binary Search, Divide and Conquer |
 | 5 | Longest Palindromic Substring | [5-Longest-Palindromic-Substring.md](Solutions/5-Longest-Palindromic-Substring.md) | String, Dynamic Programming |
 | 6 | ZigZag Conversion | [6-ZigZag-Conversion.md](Solutions/6-ZigZag-Conversion.md) | String |
+| 7 | Reverse Integer | [7-Reverse-Integer.md](Solutions/7-Reverse-Integer.md) | Math |
