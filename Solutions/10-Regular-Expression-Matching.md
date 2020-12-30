@@ -58,11 +58,11 @@ class Solution:
             if j == len(p):
                 ans = (i == len(s))
             else:
-                flag = i < len(s) and p[j] in [s[i], '.']
+                match = i < len(s) and p[j] in [s[i], '.']
                 if j + 1 < len(p) and p[j+1] == '*':
-                    ans = self.dp(s, p, i, j+2) or (flag and self.dp(s, p, i+1, j))
+                    ans = self.dp(s, p, i, j+2) or (match and self.dp(s, p, i+1, j))
                 else:
-                    ans = flag and self.dp(s, p, i+1, j+1)
+                    ans = match and self.dp(s, p, i+1, j+1)
             self.memo[i, j] = ans
         return self.memo[i, j]
     def isMatch(self, s: str, p: str) -> bool:
