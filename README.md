@@ -20,3 +20,4 @@ I write solutions in Python 3.
 | 13 | Roman to Integer | [13-Roman-to-Integer.md](Solutions/13-Roman-to-Integer.md) | Math, String |
 | 14 | Longest Common Prefix | [14-Longest-Common-Prefix.md](Solutions/14-Longest-Common-Prefix.md) | String |
 | 15 | 3Sum | [15-3Sum.md](Solutions/15-3Sum.md) | Array, Two Pointers |
+| 16 | 3Sum Closest | [16-3Sum-Closest.md](Solutions/16-3Sum-Closest.md) | Array, Two Pointers |
