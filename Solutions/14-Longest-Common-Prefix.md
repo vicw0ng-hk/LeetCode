@@ -38,4 +38,4 @@ class Solution:
                 break
         return ans
 ```
-simple string sorting and comparing. 
+Simple string sorting and comparing in Python. 
