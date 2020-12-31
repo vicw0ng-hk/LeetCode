@@ -3,7 +3,7 @@
 Merge two sorted linked lists and return it as a new **sorted** list. The new list should be made by splicing together the nodes of the first two lists.
 
 ## Example 1:
-
+![merge_ex1.jpg](/src/merge_ex1.jpg)
 ```
 Input: l1 = [1,2,4], l2 = [1,3,4]
 Output: [1,1,2,3,4,4]
