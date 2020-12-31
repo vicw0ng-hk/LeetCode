@@ -5,7 +5,7 @@ Given the `head` of a linked list, remove the <code>n<sup>th</sup></code> node f
 **Follow up**: Could you do this in one pass?
 
 ## Example 1:
-
+![remove_ex1.jpg](/src/remove_ex1.jpg)
 ```
 Input: head = [1,2,3,4,5], n = 2
 Output: [1,2,3,5]
