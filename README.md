@@ -26,3 +26,4 @@ I write solutions in Python 3.
 | 19 | Remove Nth Node From End of List | [19-Remove-Nth-Node-From-End-of-List.md](Solutions/19-Remove-Nth-Node-From-End-of-List.md) | Linked List, Two Pointers |
 | 20 | Valid Parentheses | [20-Valid-Parentheses.md](Solutions/20-Valid-Parentheses.md) | String, Stack |
 | 21 | Merge Two Sorted Lists | [21-Merge-Two-Sorted-Lists.md](Solutions/21-Merge-Two-Sorted-Lists.md) | Linked List |
+| 22 | Generate Parentheses | [22-Generate-Parentheses.md](Solutions/22-Generate-Parentheses.md) | String, Backtracking |
