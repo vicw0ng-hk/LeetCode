@@ -22,3 +22,4 @@ I write solutions in Python 3.
 | 15 | 3Sum | [15-3Sum.md](Solutions/15-3Sum.md) | Array, Two Pointers |
 | 16 | 3Sum Closest | [16-3Sum-Closest.md](Solutions/16-3Sum-Closest.md) | Array, Two Pointers |
 | 17 | Letter Combinations of a Phone Number | [17-Letter-Combinations-of-a-Phone-Number.md](Solutions/17-Letter-Combinations-of-a-Phone-Number.md) | String, Backtracking, Depth-first Search, Recursion |
+| 18 | 4Sum | [18-4Sum.md](Solutions/18-4Sum.md) | Array, Hash Table, Two Pointers |
