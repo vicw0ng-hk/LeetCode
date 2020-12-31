@@ -24,3 +24,4 @@ I write solutions in Python 3.
 | 17 | Letter Combinations of a Phone Number | [17-Letter-Combinations-of-a-Phone-Number.md](Solutions/17-Letter-Combinations-of-a-Phone-Number.md) | String, Backtracking, Depth-first Search, Recursion |
 | 18 | 4Sum | [18-4Sum.md](Solutions/18-4Sum.md) | Array, Hash Table, Two Pointers |
 | 19 | Remove Nth Node From End of List | [19-Remove-Nth-Node-From-End-of-List.md](Solutions/19-Remove-Nth-Node-From-End-of-List.md) | Linked List, Two Pointers |
+| 20 | Valid Parentheses | [20-Valid-Parentheses.md](Solutions/20-Valid-Parentheses.md) | String, Stack |
