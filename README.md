@@ -13,7 +13,7 @@ I write solutions in Python 3.
 | 6 | ZigZag Conversion | [6-ZigZag-Conversion.md](Solutions/6-ZigZag-Conversion.md) | String |
 | 7 | Reverse Integer | [7-Reverse-Integer.md](Solutions/7-Reverse-Integer.md) | Math |
 | 8 | String to Integer (atoi) | [8-String-to-Integer-(atoi).md](Solutions/8-String-to-Integer-(atoi).md) | Math, String |
-| 9 | Palindrome Number | [9-PalindromeNumber.md](Solutions/9-PalindromeNumber.md) | Math |
+| 9 | Palindrome Number | [9-Palindrome-Number.md](Solutions/9-Palindrome-Number.md) | Math |
 | 10 | Regular Expression Matching | [10-Regular-Expression-Matching.md](Solutions/10-Regular-Expression-Matching.md) | String, Dynamic Programming, Backtracking |
 | 11 | Container With Most Water | [11-Container-With-Most-Water.md](Solutions/11-Container-With-Most-Water.md) | Array, Two Pointers |
 | 12 | Integer to Roman | [12-Integer-to-Roman.md](Solutions/12-Integer-to-Roman.md) | Math, String |
