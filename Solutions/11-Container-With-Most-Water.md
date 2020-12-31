@@ -5,7 +5,7 @@ Given n non-negative integers <code>a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</
 **Notice** that you may not slant the container.
 
 ## Example 1:
-
+![question_11.jpg](/src/question_11.jpg)
 ```
 Input: height = [1,8,6,2,5,4,8,3,7]
 Output: 49
