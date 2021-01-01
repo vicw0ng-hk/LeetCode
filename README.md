@@ -30,3 +30,4 @@ I write solutions in Python 3.
 | 23 | Merge k Sorted Lists | [23-Merge-k-Sorted-Lists.md](Solutions/23-Merge-k-Sorted-Lists.md) | Linked List, Divide and Conquer, Heap |
 | 24 | Swap Nodes in Pairs | [24-Swap-Nodes-in-Pairs.md](Solutions/24-Swap-Nodes-in-Pairs.md) | Linked List, Recursion |
 | 25 | Reverse Nodes in k-Group | [25-Reverse-Nodes-in-k-Group.md](Solutions/25-Reverse-Nodes-in-k-Group.md) | Linked List |
+| 26 | Remove Duplicates from Sorted Array | [26-Remove-Duplicates-from-Sorted-Array.md](Solutions/26-Remove-Duplicates-from-Sorted-Array.md) | Array, Two Pointers |
