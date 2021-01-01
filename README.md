@@ -27,3 +27,4 @@ I write solutions in Python 3.
 | 20 | Valid Parentheses | [20-Valid-Parentheses.md](Solutions/20-Valid-Parentheses.md) | String, Stack |
 | 21 | Merge Two Sorted Lists | [21-Merge-Two-Sorted-Lists.md](Solutions/21-Merge-Two-Sorted-Lists.md) | Linked List |
 | 22 | Generate Parentheses | [22-Generate-Parentheses.md](Solutions/22-Generate-Parentheses.md) | String, Backtracking |
+| 23 | Merge k Sorted Lists | [23-Merge-k-Sorted-Lists.md](Solutions/23-Merge-k-Sorted-Lists.md) | Linked List, Divide and Conquer, Heap |
