@@ -67,6 +67,6 @@ class Solution:
             ans += str(tmp[0])
             carry = str(tmp[1])
         ans = 0 - int(ans) if neg else int(ans)
-        return ans if 0 - 1<<31 <= ans < 1<<31 else _overflow
+        return ans if 0 - (1<<31) <= ans < (1<<31) else _overflow
 ```
 Go back to when you were in primary school: [Long Division](https://en.wikipedia.org/wiki/Long_division).
