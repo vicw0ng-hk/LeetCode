@@ -9,14 +9,14 @@ Given a linked list, reverse the nodes of a linked list *k* at a time and return
 - You may not alter the values in the list's nodes, only nodes itself may be changed.
 
 ## Example 1:
-![swap_ex1.jpg](/src/swap_ex1.jpg)
+![reverse_ex1.jpg](/src/reverse_ex1.jpg)
 ```
 Input: head = [1,2,3,4,5], k = 2
 Output: [2,1,4,3,5]
 ```
 
 ## Example 2:
-![swap_ex2.jpg](/src/swap_ex2.jpg)
+![reverse_ex2.jpg](/src/reverse_ex2.jpg)
 ```
 Input: head = [1,2,3,4,5], k = 3
 Output: [3,2,1,4,5]
