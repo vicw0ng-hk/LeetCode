@@ -33,3 +33,4 @@ I write solutions in Python 3.
 | 26 | Remove Duplicates from Sorted Array | [26-Remove-Duplicates-from-Sorted-Array.md](Solutions/26-Remove-Duplicates-from-Sorted-Array.md) | Array, Two Pointers |
 | 27 | Remove Element | [27-Remove-Element.md](Solutions/27-Remove-Element.md) | Array, Two Pointers |
 | 28 | Implement strStr() | [28-Implement-strStr().md](Solutions/28-Implement-strStr().md) | Two Pointers, String |
+| 29 | Divide Two Integers | [29-Divide-Two-Integers.md](Solutions/29-Divide-Two-Integers.md) | Math, Binary Search |
