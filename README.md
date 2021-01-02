@@ -34,3 +34,4 @@ I write solutions in Python 3.
 | 27 | Remove Element | [27-Remove-Element.md](Solutions/27-Remove-Element.md) | Array, Two Pointers |
 | 28 | Implement strStr() | [28-Implement-strStr().md](Solutions/28-Implement-strStr().md) | Two Pointers, String |
 | 29 | Divide Two Integers | [29-Divide-Two-Integers.md](Solutions/29-Divide-Two-Integers.md) | Math, Binary Search |
+| 30 | Substring with Concatenation of All Words | [30-Substring-with-Concatenation-of-All-Words.md](Solutions/30-Substring-with-Concatenation-of-All-Words.md) | Hash Table, Two Pointers, String |
