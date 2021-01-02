@@ -37,3 +37,4 @@ I write solutions in Python 3.
 | 30 | Substring with Concatenation of All Words | [30-Substring-with-Concatenation-of-All-Words.md](Solutions/30-Substring-with-Concatenation-of-All-Words.md) | Hash Table, Two Pointers, String |
 | 31 | Next Permutation | [31-Next-Permutation.md](Solutions/31-Next-Permutation.md) | Array |
 | 32 | Longest Valid Parentheses | [32-Longest-Valid-Parentheses.md](Solutions/32-Longest-Valid-Parentheses.md) | Array, Dynamic Programming |
+| 33 | Search in Rotated Sorted Array | [33-Search-in-Rotated-Sorted-Array.md](Solutions/33-Search-in-Rotated-Sorted-Array.md) | Array, Binary Search |
