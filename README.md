@@ -36,3 +36,4 @@ I write solutions in Python 3.
 | 29 | Divide Two Integers | [29-Divide-Two-Integers.md](Solutions/29-Divide-Two-Integers.md) | Math, Binary Search |
 | 30 | Substring with Concatenation of All Words | [30-Substring-with-Concatenation-of-All-Words.md](Solutions/30-Substring-with-Concatenation-of-All-Words.md) | Hash Table, Two Pointers, String |
 | 31 | Next Permutation | [31-Next-Permutation.md](Solutions/31-Next-Permutation.md) | Array |
+| 32 | Longest Valid Parentheses | [32-Longest-Valid-Parentheses.md](Solutions/32-Longest-Valid-Parentheses.md) | Array, Dynamic Programming |
