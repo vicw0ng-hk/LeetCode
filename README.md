@@ -38,3 +38,4 @@ I write solutions in Python 3.
 | 31 | Next Permutation | [31-Next-Permutation.md](Solutions/31-Next-Permutation.md) | Array |
 | 32 | Longest Valid Parentheses | [32-Longest-Valid-Parentheses.md](Solutions/32-Longest-Valid-Parentheses.md) | Array, Dynamic Programming |
 | 33 | Search in Rotated Sorted Array | [33-Search-in-Rotated-Sorted-Array.md](Solutions/33-Search-in-Rotated-Sorted-Array.md) | Array, Binary Search |
+| 34 | Find First and Last Position of Element in Sorted Array | [34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md](Solutions/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md) | Array, Binary Search |
