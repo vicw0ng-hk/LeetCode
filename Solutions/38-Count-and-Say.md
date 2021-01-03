@@ -9,6 +9,8 @@ To determine how you "say" a digit string, split it into the **minimal** number 
 
 For example, the saying and conversion for digit string `"3322251"`:
 
+![countandsay.jpg](/src/countandsay.jpg)
+
 Given a positive integer `n`, return *the* <code>n<sup>th</sup></code> *term of the **count-and-say** sequence*.
 
 ## Example 1:
