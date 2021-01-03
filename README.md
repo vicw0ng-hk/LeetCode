@@ -43,3 +43,4 @@ I write solutions in Python 3.
 | 36 | Valid Sudoku | [36-Valid-Sudoku.md](Solutions/36-Valid-Sudoku.md) | Hash Table |
 | 37 | Sudoku Solver | [37-Sudoku-Solver.md](Solutions/37-Sudoku-Solver.md) | Hash Table, Backtracking |
 | 38 | Count and Say | [38-Count-and-Say.md](Solutions/38-Count-and-Say.md) | String |
+| 39 | Combination Sum | [39-Combination-Sum.md](Solutions/39-Combination-Sum.md) | Array, Backtracking |
