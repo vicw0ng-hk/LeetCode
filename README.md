@@ -41,3 +41,4 @@ I write solutions in Python 3.
 | 34 | Find First and Last Position of Element in Sorted Array | [34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md](Solutions/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md) | Array, Binary Search |
 | 35 | Search Insert Position | [35-Search-Insert-Position.md](Solutions/35-Search-Insert-Position.md) | Array, Binary Search |
 | 36 | Valid Sudoku | [36-Valid-Sudoku.md](Solutions/36-Valid-Sudoku.md) | Hash Table |
+| 37 | Sudoku Solver | [37-Sudoku-Solver.md](Solutions/37-Sudoku-Solver.md) | Hash Table, Backtracking |
