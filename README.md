@@ -39,3 +39,4 @@ I write solutions in Python 3.
 | 32 | Longest Valid Parentheses | [32-Longest-Valid-Parentheses.md](Solutions/32-Longest-Valid-Parentheses.md) | Array, Dynamic Programming |
 | 33 | Search in Rotated Sorted Array | [33-Search-in-Rotated-Sorted-Array.md](Solutions/33-Search-in-Rotated-Sorted-Array.md) | Array, Binary Search |
 | 34 | Find First and Last Position of Element in Sorted Array | [34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md](Solutions/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md) | Array, Binary Search |
+| 35 | Search Insert Position | [35-Search-Insert-Position.md](Solutions/35-Search-Insert-Position.md) | Array, Binary Search |
