@@ -45,3 +45,4 @@ I write solutions in Python 3.
 | 38 | Count and Say | [38-Count-and-Say.md](Solutions/38-Count-and-Say.md) | String |
 | 39 | Combination Sum | [39-Combination-Sum.md](Solutions/39-Combination-Sum.md) | Array, Backtracking |
 | 40 | Combination Sum II | [40-Combination-Sum-II.md](Solutions/40-Combination-Sum-II.md) | Array, Backtracking |
+| 41 | First Missing Positive | [41-First-Missing-Positive.md](Solutions/41-First-Missing-Positive.md) | Array |
