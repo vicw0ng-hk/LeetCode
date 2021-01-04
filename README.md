@@ -47,3 +47,4 @@ I write solutions in Python 3.
 | 40 | Combination Sum II | [40-Combination-Sum-II.md](Solutions/40-Combination-Sum-II.md) | Array, Backtracking |
 | 41 | First Missing Positive | [41-First-Missing-Positive.md](Solutions/41-First-Missing-Positive.md) | Array |
 | 42 | Trapping Rain Water | [42-Trapping-Rain-Water.md](Solutions/42-Trapping-Rain-Water.md) | Array, Two Pointer, Stack |
+| 43 | Multiply Strings | [43-Multiply-Strings.md](Solutions/43-Multiply-Strings.md) | Math, String
