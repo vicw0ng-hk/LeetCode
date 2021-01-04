@@ -49,3 +49,4 @@ I write solutions in Python 3.
 | 42 | Trapping Rain Water | [42-Trapping-Rain-Water.md](Solutions/42-Trapping-Rain-Water.md) | Array, Two Pointer, Stack |
 | 43 | Multiply Strings | [43-Multiply-Strings.md](Solutions/43-Multiply-Strings.md) | Math, String
 | 44 | Wildcard Matching | [44-Wildcard-Matching.md](Solutions/44-Wildcard-Matching.md) | String, Dynamic Programming, Backtracking, Greedy |
+| 45 | Jump Game II | [45-Jump-Game-II.md](Solutions/45-Jump-Game-II.md) | Array, Greedy |
