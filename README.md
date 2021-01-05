@@ -50,3 +50,4 @@ I write solutions in Python 3.
 | 43 | Multiply Strings | [43-Multiply-Strings.md](Solutions/43-Multiply-Strings.md) | Math, String
 | 44 | Wildcard Matching | [44-Wildcard-Matching.md](Solutions/44-Wildcard-Matching.md) | String, Dynamic Programming, Backtracking, Greedy |
 | 45 | Jump Game II | [45-Jump-Game-II.md](Solutions/45-Jump-Game-II.md) | Array, Greedy |
+| 46 | Permutations | [46-Permutations.md](Solutions/46-Permutations.md) | Backtracking |
