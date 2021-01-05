@@ -51,3 +51,4 @@ I write solutions in Python 3.
 | 44 | Wildcard Matching | [44-Wildcard-Matching.md](Solutions/44-Wildcard-Matching.md) | String, Dynamic Programming, Backtracking, Greedy |
 | 45 | Jump Game II | [45-Jump-Game-II.md](Solutions/45-Jump-Game-II.md) | Array, Greedy |
 | 46 | Permutations | [46-Permutations.md](Solutions/46-Permutations.md) | Backtracking |
+| 47 | Permutations II | [47-Permutations-II.md](Solutions/47-Permutations-II.md) | Backtracking |
