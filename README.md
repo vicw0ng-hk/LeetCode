@@ -1,7 +1,7 @@
 # LeetCode-2021
 This is my LeetCode practices 2021.
 
-I write solutions in Python 3. 
+I write solutions in Python 3. I only write free algorithm problems. (No locked, shell, database or concurrency problems)
 
 | # | Title | Solution | Topics |
 |--:|:------|:---------|:-------|
