@@ -53,15 +53,15 @@ The `O(n)` solution. Also, the divide and conquer solution:
 ```python
 class Solution:
     def maxCrossingSum(self, nums: List[int], left: int, mid: int, right: int) -> int:
-        _sum, left_sum = 0, float('-inf')
+        _sum, max_left_sum = 0, float('-inf')
         for i in range(mid, left-1, -1):
             _sum += nums[i]
-            left_sum = max(left_sum, _sum)
-        _sum, right_sum = 0, float('-inf')
+            max_left_sum = max(max_left_sum, _sum)
+        _sum, max_right_sum = 0, float('-inf')
         for i in range(mid+1, right+1):
             _sum += nums[i]
-            right_sum = max(right_sum, _sum)
-        return max(left_sum+right_sum, left_sum, right_sum)
+            max_right_sum = max(max_right_sum, _sum)
+        return max_left_sum + max_right_sum
     def maxSubArraySum(self, nums: List[int], left: int, right: int) -> int:
         if left == right:
             return nums[left]
