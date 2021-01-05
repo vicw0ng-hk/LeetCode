@@ -58,3 +58,4 @@ I write solutions in Python 3.
 | 51 | N-Queens | [51-N-Queens.md](Solutions/51-N-Queens.md) | Backtracking |
 | 52 | N-Queens II | [52-N-Queens-II.md](Solutions/52-N-Queens-II.md) | Backtracking |
 | 53 | Maximum Subarray | [53-Maximum-Subarray.md](Solutions/53-Maximum-Subarray.md) | Array, Divide and Conquer, Dynamic Programming |
+| 54 | Spiral Matrix | [54-Spiral-Matrix.md](Solutions/54-Spiral-Matrix.md) | Array |
