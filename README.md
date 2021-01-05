@@ -55,3 +55,4 @@ I write solutions in Python 3.
 | 48 | Rotate Image | [48-Rotate-Image.md](Solutions/48-Rotate-Image.md) | Array |
 | 49 | Group Anagrams | [49-Group-Anagrams.md](Solutions/49-Group-Anagrams.md) | Hash Table, String |
 | 50 | Pow(x, n) | [50-Pow(x,n).md](Solutions/50-Pow(x,n).md) | Math, Binary Search |
+| 51 | N-Queens | [51-N-Queens.md](Solutions/51-N-Queens.md) | Backtracking |
