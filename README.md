@@ -57,3 +57,4 @@ I write solutions in Python 3.
 | 50 | Pow(x, n) | [50-Pow(x,n).md](Solutions/50-Pow(x,n).md) | Math, Binary Search |
 | 51 | N-Queens | [51-N-Queens.md](Solutions/51-N-Queens.md) | Backtracking |
 | 52 | N-Queens II | [52-N-Queens-II.md](Solutions/52-N-Queens-II.md) | Backtracking |
+| 53 | Maximum Subarray | [53-Maximum-Subarray.md](Solutions/53-Maximum-Subarray.md) | Array, Divide and Conquer, Dynamic Programming |
