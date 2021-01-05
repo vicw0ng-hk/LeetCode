@@ -42,4 +42,4 @@ class Solution:
                 self.memo[n] = self.myPow(x, n>>1) * self.myPow(x, n>>1)
         return self.memo[n]
 ```
-Typical [exponentiation by squaring](https://en.wikipedia.org/wiki/Exponentiation_by_squaring)
+Typical [exponentiation by squaring](https://en.wikipedia.org/wiki/Exponentiation_by_squaring).
