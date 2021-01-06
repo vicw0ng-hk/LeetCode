@@ -60,3 +60,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 53 | Maximum Subarray | [53-Maximum-Subarray.md](Solutions/53-Maximum-Subarray.md) | Array, Divide and Conquer, Dynamic Programming |
 | 54 | Spiral Matrix | [54-Spiral-Matrix.md](Solutions/54-Spiral-Matrix.md) | Array |
 | 55 | Jump Game | [55-Jump-Game.md](Solutions/55-Jump-Game.md) | Array, Greedy |
+| 56 | Merge Intervals | [56-Merge-Intervals.md](Solutions/56-Merge-Intervals.md) | Array, Sort |
