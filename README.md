@@ -61,3 +61,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 54 | Spiral Matrix | [54-Spiral-Matrix.md](Solutions/54-Spiral-Matrix.md) | Array |
 | 55 | Jump Game | [55-Jump-Game.md](Solutions/55-Jump-Game.md) | Array, Greedy |
 | 56 | Merge Intervals | [56-Merge-Intervals.md](Solutions/56-Merge-Intervals.md) | Array, Sort |
+| 57 | Insert Interval | [57-Insert-Interval.md](Solutions/57-Insert-Interval.md) | Array, Sort |
