@@ -66,3 +66,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 60 | Permutation Sequence | [60-Permutation-Sequence.md](Solutions/60-Permutation-Sequence.md) | Math, Backtracking |
 | 61 | Rotate List | [61-Rotate-List.md](Solutions/61-Rotate-List.md) | Linked List, Two Pointers |
 | 62 | Unique Paths | [62-Unique-Paths.md](Solutions/62-Unique-Paths.md) | Array, Dynamic Programming |
+| 63 | Unique Paths II | [63-Unique-Paths-II.md](Solutions/63-Unique-Paths-II.md) | Array, Dynamic Programming |
