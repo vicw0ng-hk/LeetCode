@@ -68,3 +68,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 62 | Unique Paths | [62-Unique-Paths.md](Solutions/62-Unique-Paths.md) | Array, Dynamic Programming |
 | 63 | Unique Paths II | [63-Unique-Paths-II.md](Solutions/63-Unique-Paths-II.md) | Array, Dynamic Programming |
 | 64 | Minimum Path Sum | [64-Minimum-Path-Sum.md](Solutions/64-Minimum-Path-Sum.md) | Array, Dynamic Programming |
+| 65 | Valid Number | [65-Valid-Number.md](Solutions/65-Valid-Number.md) | Math, String |
