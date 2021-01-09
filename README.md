@@ -71,3 +71,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 65 | Valid Number | [65-Valid-Number.md](Solutions/65-Valid-Number.md) | Math, String |
 | 66 | Plus One | [66-Plus-One.md](Solutions/66-Plus-One.md) | Array |
 | 67 | Add Binary | [67-Add-Binary.md](Solutions/67-Add-Binary.md) | Math, String |
+| 68 | Text Justification | [68-Text-Justification.md](Solutions/68-Text-Justification.md) | String |
