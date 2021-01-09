@@ -32,7 +32,7 @@ class Solution:
             if b:
                 carry += int(b.pop())
             ans = str(carry & 1) + ans
-            carry //= 2
+            carry >>= 1
         return ans
 ```
 Simple binary addition.
