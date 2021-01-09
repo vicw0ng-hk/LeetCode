@@ -37,4 +37,4 @@ class Solution:
         n += 1
         return int((a**n - b**n) / sqrt(5))
 ```
-Typical Fibonacci sequence.
+Typical [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number).
