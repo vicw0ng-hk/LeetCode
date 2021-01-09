@@ -70,3 +70,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 64 | Minimum Path Sum | [64-Minimum-Path-Sum.md](Solutions/64-Minimum-Path-Sum.md) | Array, Dynamic Programming |
 | 65 | Valid Number | [65-Valid-Number.md](Solutions/65-Valid-Number.md) | Math, String |
 | 66 | Plus One | [66-Plus-One.md](Solutions/66-Plus-One.md) | Array |
+| 67 | Add Binary | [67-Add-Binary.md](Solutions/67-Add-Binary.md) | Math, String |
