@@ -9,6 +9,7 @@ Now consider if some obstacles are added to the grids. How many unique paths wou
 An obstacle and space is marked as `1` and `0` respectively in the grid.
 
 ## Example 1:
+![robot1.jpg](/src/robot1.jpg)
 ```
 Input: obstacleGrid = [[0,0,0],[0,1,0],[0,0,0]]
 Output: 2
@@ -19,6 +20,7 @@ There are two ways to reach the bottom-right corner:
 ```
 
 ## Example 2:
+![robot2.jpg](/src/robot2.jpg)
 ```
 Input: obstacleGrid = [[0,1],[0,0]]
 Output: 1

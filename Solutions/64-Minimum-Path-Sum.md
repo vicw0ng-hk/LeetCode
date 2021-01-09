@@ -5,6 +5,7 @@ Given a `m x n` `grid` filled with non-negative numbers, find a path from top le
 **Note**: You can only move either down or right at any point in time.
 
 ## Example 1:
+![minpath.jpg](/src/minpath.jpg)
 ```
 Input: grid = [[1,3,1],[1,5,1],[4,2,1]]
 Output: 7
