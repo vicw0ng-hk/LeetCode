@@ -73,4 +73,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 67 | Add Binary | [67-Add-Binary.md](Solutions/67-Add-Binary.md) | Math, String |
 | 68 | Text Justification | [68-Text-Justification.md](Solutions/68-Text-Justification.md) | String |
 | 69 | Sqrt(x) | [69-Sqrt(x).md](Solutions/69-Sqrt(x).md) | Math, Binary Search |
-| 70 | Climbing Stairs | [70-Climbing-Stairs.md](Solutions/70-Climbing-Stairs.md| Dynamic Programming |
+| 70 | Climbing Stairs | [70-Climbing-Stairs.md](Solutions/70-Climbing-Stairs.md)| Dynamic Programming |
