@@ -72,3 +72,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 66 | Plus One | [66-Plus-One.md](Solutions/66-Plus-One.md) | Array |
 | 67 | Add Binary | [67-Add-Binary.md](Solutions/67-Add-Binary.md) | Math, String |
 | 68 | Text Justification | [68-Text-Justification.md](Solutions/68-Text-Justification.md) | String |
+| 69 | Sqrt(x) | [69-Sqrt(x).md](Solutions/69-Sqrt(x).md) | Math, Binary Search |
