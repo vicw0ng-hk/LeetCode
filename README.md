@@ -75,3 +75,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 69 | Sqrt(x) | [69-Sqrt(x).md](Solutions/69-Sqrt(x).md) | Math, Binary Search |
 | 70 | Climbing Stairs | [70-Climbing-Stairs.md](Solutions/70-Climbing-Stairs.md)| Dynamic Programming |
 | 71 | Simplify Path | [71-Simplify-Path.md](Solutions/71-Simplify-Path.md) | String, Stack |
+| 72 | Edit Distance | [72-Edit-Distance.md](Solutions/72-Edit-Distance.md) | String, Dynamic Programming |
