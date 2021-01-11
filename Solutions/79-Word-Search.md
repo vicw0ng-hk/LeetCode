@@ -72,4 +72,4 @@ class Solution:
                 board[start[i][0]][start[i][1]] = tmp
         return self.ans
 ```
-First find the first letter, and then backtrack. Just like a human would do in a puzzle like this.
+First find the first letter, and then backtrack. Just like what a human would do in a puzzle like this.
