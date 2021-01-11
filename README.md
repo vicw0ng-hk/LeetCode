@@ -76,3 +76,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 70 | Climbing Stairs | [70-Climbing-Stairs.md](Solutions/70-Climbing-Stairs.md)| Dynamic Programming |
 | 71 | Simplify Path | [71-Simplify-Path.md](Solutions/71-Simplify-Path.md) | String, Stack |
 | 72 | Edit Distance | [72-Edit-Distance.md](Solutions/72-Edit-Distance.md) | String, Dynamic Programming |
+| 73 | Set Matrix Zeroes | [73-Set-Matrix-Zeroes.md](Solutions/73-Set-Matrix-Zeroes.md) | Array |
