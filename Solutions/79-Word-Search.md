@@ -6,7 +6,8 @@ The word can be constructed from letters of sequentially adjacent cells, where "
 
 ## Example 1:
 ![word1.jpg](/src/word1.jpg)
-```Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
+```
+Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
 Output: true
 ```
 
