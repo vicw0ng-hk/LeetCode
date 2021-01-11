@@ -78,3 +78,4 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 72 | Edit Distance | [72-Edit-Distance.md](Solutions/72-Edit-Distance.md) | String, Dynamic Programming |
 | 73 | Set Matrix Zeroes | [73-Set-Matrix-Zeroes.md](Solutions/73-Set-Matrix-Zeroes.md) | Array |
 | 74 | Search a 2D Matrix | [74-Search-a-2D-Matrix.md](Solutions/74-Search-a-2D-Matrix.md) | Array, Binary Search |
+| 76 | Minimum Window Substring | [76-Minimum-Window-Substring.md](Solutions/76-Minimum-Window-Substring.md) | Hash Table, Two Pointers, String, Sliding Window |
