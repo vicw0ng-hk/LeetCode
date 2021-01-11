@@ -8,12 +8,14 @@ Given an *`m x n`* matrix. If an element is **0**, set its entire row and column
 - Could you devise a constant space solution?
 
 ## Example 1:
+![mat3.jpg](/src/mat3.jpg)
 ```
 Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
 Output: [[1,0,1],[0,0,0],[1,0,1]]
 ```
 
 ## Example 2:
+![mat4.jpg](/src/mat4.jpg)
 ```
 Input: matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
 Output: [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
