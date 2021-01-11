@@ -1,3 +1,5 @@
+<img src="src/1024px-LeetCode_Logo_black_with_text.svg.png" align="right" />
+
 # LeetCode-2021
 This is my LeetCode practices 2021.
 
