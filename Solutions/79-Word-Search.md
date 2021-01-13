@@ -41,23 +41,25 @@ class Solution:
         if word == s:
             self.ans = True
             return
+        if self.ans:
+            return
         up = (i != 0 and board[i-1][j] != '.')
         down = (i != len(board)-1 and board[i+1][j] != '.')
         left = (j != 0 and board[i][j-1] != '.')
         right = (j != len(board[0])-1 and board[i][j+1] != '.')
-        if up and (not self.ans) and board[i-1][j] == word[len(s)]:
+        if up and board[i-1][j] == word[len(s)]:
             tmp, board[i-1][j] = board[i-1][j], '.'
             self.solve(board, i-1, j, word, s+tmp)
             board[i-1][j] = tmp
-        if down and (not self.ans) and board[i+1][j] == word[len(s)]:
+        if down and board[i+1][j] == word[len(s)]:
             tmp, board[i+1][j] = board[i+1][j], '.'
             self.solve(board, i+1, j, word, s+tmp)
             board[i+1][j] = tmp
-        if left and (not self.ans) and board[i][j-1] == word[len(s)]:
+        if left and board[i][j-1] == word[len(s)]:
             tmp, board[i][j-1] = board[i][j-1], '.'
             self.solve(board, i, j-1, word, s+tmp)
             board[i][j-1] = tmp
-        if right and (not self.ans) and board[i][j+1] == word[len(s)]:
+        if right and board[i][j+1] == word[len(s)]:
             tmp, board[i][j+1] = board[i][j+1], '.'
             self.solve(board, i, j+1, word, s+tmp)
             board[i][j+1] = tmp
