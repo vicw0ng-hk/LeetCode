@@ -53,4 +53,4 @@ class Solution:
                 low = mid + 1
         return low
 ```
-[Painter's Partition Problem](https://www.geeksforgeeks.org/painters-partition-problem-set-2/). Encountered in [COMP3250](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/comp3250.html 'COMP3250 Design and analysis of algorithms [Section 2B, 2020]') @ [HKU](https://hku.hk). 
+[Painter's Partition Problem](https://www.geeksforgeeks.org/painters-partition-problem-set-2/). Binary Search approach, `O(nlogn)`. Encountered in [COMP3250](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2020/comp3250.html 'COMP3250 Design and analysis of algorithms [Section 2B, 2020]') @ [HKU](https://hku.hk). 
