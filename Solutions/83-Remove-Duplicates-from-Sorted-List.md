@@ -3,12 +3,14 @@
 Given the `head` of a sorted linked list, *delete all duplicates such that each element appears only once*. Return *the linked list **sorted** as well*.
 
 ## Example 1:
+![list_1](/src/list1.jpg)
 ```
 Input: head = [1,1,2]
 Output: [1,2]
 ```
 
 ## Example 2:
+![list_2](/src/list2.jpg)
 ```
 Input: head = [1,1,2,3,3]
 Output: [1,2,3]
