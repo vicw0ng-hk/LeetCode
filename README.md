@@ -86,4 +86,5 @@ I write solutions in Python 3. I only write free algorithm problems. (No locked,
 | 79 | Word Search | [79-Word-Search.md](Solutions/79-Word-Search.md) | Array, Backtracking |
 | 80 | Remove Duplicates from Sorted Array II | [80-Remove-Duplicates-from-Sorted-Array-II.md](Solutions/80-Remove-Duplicates-from-Sorted-Array-II.md) | Array, Two Pointers |
 | 81 | Search in Rotated Sorted Array II | [81-Search-in-Rotated-Sorted-Array-II.md](Solutions/81-Search-in-Rotated-Sorted-Array-II.md) | Array, Binary Search |
+| 82 | Remove Duplicates from Sorted List II | [82-Remove-Duplicates-from-Sorted-List-II.md](Solutions/82-Remove-Duplicates-from-Sorted-List-II.md) | Linked List |
 | 410 | Split Array Largest Sum | [410-Split-Array-Largest-Sum.md](Solutions/410-Split-Array-Largest-Sum.md) | Binary Search, Dynamic Programming |
