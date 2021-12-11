@@ -1,7 +1,7 @@
 <img src="src/1024px-LeetCode_Logo_black_with_text.svg.png" width="360" height=auto align="right" />
 
-# LeetCode-2021
-This is my LeetCode practices 2021.
+# LeetCode
+This is my LeetCode practices.
 
 I write solutions in Python 3. I only write free algorithm problems. (No locked, shell, database or concurrency problems)
 
